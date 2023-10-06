@@ -14,27 +14,23 @@ Todas as palavras ou expressões constantes da lista abaixo deverão ser entendi
 
 **"Confirmação Contratual"** é a confirmação da contratação do *Sistema*, e consiste nesse documento reconhecido em cartório pelo *Contratado* e o *Cliente*.
 
-**“Conta de usuário”** é o acesso que o *Contratado* fornece ao *Cliente* para utilização da *Plataforma XYZ*. Para utilização desta plataforma, será exigido *E-mail* e *Senha* e deverá conter os dados pessoas do *Cliente*.
+**“Conta de usuário”** é o acesso que o *Contratado* fornece ao *Cliente* para utilização da *Plataforma XYZ*. Para utilização desta plataforma, será exigido *E-mail* e *Senha* e deverá conter os dados pessoas do *Cliente*. (EDIT)
 
-**“E-mail”** é o nome de usuário que o *Cliente* utilizará para acessar a *Plataforma XYZ*. É responsabilidade do *Cliente* manter o *E-mail* atualizado.
+**“E-mail”** é o nome de usuário que o *Cliente* utilizará para acessar a *Plataforma XYZ*. É responsabilidade do *Cliente* manter o *E-mail* atualizado. (EDIT)
 
-**“Formas de Pagamento”** são as opções/soluções de pagamento disponibilizadas na *Plataforma XYZ*, para que o *Cliente* efetue o pagamento referente ao *Pacote de Serviços* escolhido. O *Cliente* poderá, a qualquer momento, alterar a *Forma de Pagamento*, de acordo com as opções/soluções oferecidas pelo *Contratado*, disponíveis na ocasião da solicitação da alteração.
+**“Formas de Pagamento”** são as opções/soluções de pagamento disponibilizadas na *Plataforma XYZ*, para que o *Cliente* efetue o pagamento referente ao *Pacote de Serviços* escolhido. O *Cliente* poderá, a qualquer momento, alterar a *Forma de Pagamento*, de acordo com as opções/soluções oferecidas pelo *Contratado*, disponíveis na ocasião da solicitação da alteração. (EDIT)
 
-**“Pacote de Serviços”** é o valor cobrado pelo *Contratado* pelo *Sistema*. São 3 (três) pacotes disponíveis: *Pacote Entrega*, *Pacote 30*, *Pacote 50*.
+**“Pacote de Serviços”** é o valor cobrado pelo *Contratado* pelo *Sistema*. São 3 (três) pacotes disponíveis: *Pacote Entrega*, *Pacote 30*, *Pacote 50*. (EDIT)
 
 **“Pacote Entrega”** consiste no pagamento total por parte do *Cliente* ao *Contratado* no ato da entrega do *Sistema*.
 
-**“Pacote 30"** consiste no pagamento antecipado de 30% sobre o valor total, por parte do *Cliente* ao *Contratado*, no ato da *Confirmação Contratual*. O restante do valor, 70%, deverá ser pago no ato da entrega do *Sistema*.
+**“Pacote 30"** consiste no pagamento antecipado de 30% sobre o valor total, por parte do *Cliente* ao *Contratado*, no ato da *Confirmação Contratual*. O restante do valor, 70%, deverá ser pago no ato da entrega do *Sistema*. (EDIT)
 
-**“Pacote 50"** consiste no pagamento antecipado de 50% sobre o valor total, por parte do *Cliente* ao *Contratado*, no ato da *Confirmação Contratual*. O restante do valor, 50%, deverá ser pago no ato da entrega do *Sistema*.
+**“Pacote 50"** consiste no pagamento antecipado de 50% sobre o valor total, por parte do *Cliente* ao *Contratado*, no ato da *Confirmação Contratual*. O restante do valor, 50%, deverá ser pago no ato da entrega do *Sistema*. (EDIT)
 
-**“Planos de Assinatura”** são planos diversos disponíveis na *Plataforma XYZ* com características e preços específicos.
+**“Plataforma XYZ”** é a plataforma online por meio da qual o Cliente terá acesso às informações referente as Condições Gerais. (EDIT)
 
-**“Plataforma XYZ”** é a plataforma online por meio da qual o Cliente terá acesso às informações referente as Condições Gerais.
-
-**“Senha”** é o dado de acesso pessoal à *Plataforma XYZ*. É responsabilidade do *Cliente* manter este dado em sigilo e atualizado.
-
-**"Suporte Técnico"** significa à prestação de serviço de suporte técnico por: telefone, e-mail, chat; exclusivamente ao *Cliente* sobre o *Sistema* desenvolvido pelo *Contratado*.
+**"Suporte Técnico"** significa à prestação de serviço de suporte técnico por: redes sociais, e-mail, chat; exclusivamente ao *Cliente* sobre o *Sistema* desenvolvido pelo *Contratado*.
 
 **“Sistema”** é o serviço e/ou produto desenvolvido e/ou modificado pelo *Contratado* para o *Cliente*.
 
@@ -44,15 +40,15 @@ Todas as palavras ou expressões constantes da lista abaixo deverão ser entendi
 
 2.2. Pela contratação do *Sistema*, o *Contratado* disponibilizará ao *Cliente* uma solução integrada com produtos e serviços que visam automatizar tarefas rotineiras, podendo ser tarefas administrativas ou não.
 
-2.3. Estarão à disposição do *Cliente* 3 *Pacotes de Serviços* referente a forma de pagamento, a qual o *Cliente* deverá escolher 1 destes pacotes.
+2.3. Estarão à disposição do *Cliente* 3 *Pacotes de Serviços* referente a forma de pagamento, a qual o *Cliente* deverá escolher 1 destes pacotes. (EDIT)
 
-2.4. Para utilização do *Sistema*, o *Cliente* deverá aceitar suas *Condições Gerais* de Utilização do *Sistema*, o que ocorrerá no momento da contratação do *Sistema*. Tais *Condições Gerais* de utilização também encontram-se disponíveis na *Plataforma XYZ*.
+2.4. Para utilização do *Sistema*, o *Cliente* deverá aceitar suas *Condições Gerais* de Utilização do *Sistema*, o que ocorrerá no momento da contratação do *Sistema*. Tais *Condições Gerais* de utilização também encontram-se disponíveis na *Plataforma XYZ*. (EDIT)
 
-2.5. Para manter o acesso à *Plataforma XYZ*, o *Cliente* deve possuir e manter, durante toda a vigência deste *Contrato*, um *E-mail* válido e devidamente registrado em um órgão competente, ao qual estará vinculada sua *Conta de usuário*, responsabilizando-se o *Cliente* por qualquer prejuízo e/ou dano causado a terceiro em função deste *E-mail*.
+2.5. Para manter o acesso à *Plataforma XYZ*, o *Cliente* deve possuir e manter, durante toda a vigência deste *Contrato*, um *E-mail* válido e devidamente registrado em um órgão competente, ao qual estará vinculada sua *Conta de usuário*, responsabilizando-se o *Cliente* por qualquer prejuízo e/ou dano causado a terceiro em função deste *E-mail*. (EDIT)
 
-2.6. A *Plataforma XYZ* permite que o *Cliente* compartilhe mensagens, sendo que o *Cliente* será única e exclusivamente responsável por todas as ações por ele realizadas relacionadas a tal compartilhamento.
+2.6. A *Plataforma XYZ* permite que o *Cliente* compartilhe mensagens, sendo que o *Cliente* será única e exclusivamente responsável por todas as ações por ele realizadas relacionadas a tal compartilhamento. (EDIT)
 
-2.7. O *Cliente* é responsável por todos os dados e informações por ele inseridos na *Plataforma XYZ*, bem como pelas mensagens compartilhadas.
+2.7. O *Cliente* é responsável por todos os dados e informações por ele inseridos na *Plataforma XYZ*, bem como pelas mensagens compartilhadas. (EDIT)
 
 2.8. A *Plataforma XYZ* será disponibilizada no site `www.xyzteste.com.br`, podendo ser acessada por computador, smartphone ou tablet.
 
