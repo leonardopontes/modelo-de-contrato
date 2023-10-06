@@ -76,17 +76,17 @@ b) Android, iOS, Windows Phone.
 
 **3 - CADASTRAMENTO DO CLIENTE E OBRIGAÇÕES**
 
-3.1. Ao contratar o *Sistema* e efetuar seu cadastro, disponível no site `www.xyzteste.com.br`, o novo *Cliente* receberá uma *Conta de usuário* com uma (senha temporária) de acesso à *Plataforma XYZ*, que será sua identificação junto ao *Contratado*. É responsabilidade do *Cliente* alterar esta senha temporária. Opção disponível na Plataforma XYZ.
+3.1. Ao contratar o *Sistema* e efetuar seu cadastro, disponível no site `www.xyzteste.com.br`, o novo *Cliente* receberá uma *Conta de usuário* com uma (senha temporária) de acesso à *Plataforma XYZ*, que será sua identificação junto ao *Contratado*. É responsabilidade do *Cliente* alterar esta senha temporária. Opção disponível na Plataforma XYZ. (EDIT)
 
-3.2. O *Cliente* não poderá escolher como usuário *E-mail* que já tenha sido escolhido anteriormente por outro *Cliente* ou, de outra forma em geral, contrários à lei ou às exigências da moral e bons costumes geralmente aceitos.
+3.2. O *Cliente* não poderá escolher como usuário *E-mail* que já tenha sido escolhido anteriormente por outro *Cliente* ou, de outra forma em geral, contrários à lei ou às exigências da moral e bons costumes geralmente aceitos. (EDIT)
 
-3.3. O *Cliente* se compromete a fornecer informações verdadeiras, corretas, atuais e completas sobre si mesmo, no momento do seu cadastramento.
+3.3. O *Cliente* se compromete a fornecer informações verdadeiras, corretas, atuais e completas sobre si mesmo, no momento do seu cadastramento. (EDIT)
 
-3.4. O usuário e senha de acesso são privativos do *Cliente*, ficando ele responsável por si e por terceiros na sua utilização, obrigando-se a honrar todos os compromissos financeiros e/ou legais daí resultantes.
+3.4. O usuário e senha de acesso são privativos do *Cliente*, ficando ele responsável por si e por terceiros na sua utilização, obrigando-se a honrar todos os compromissos financeiros e/ou legais daí resultantes. (EDIT)
 
-3.5. O *Cliente* se compromete a comunicar o *Contratado* o extravio, perda ou roubo das senhas de acesso imediatamente após o conhecimento do fato.
+3.5. O *Cliente* se compromete a comunicar o *Contratado* o extravio, perda ou roubo das senhas de acesso imediatamente após o conhecimento do fato. (EDIT)
 
-3.6. Até o momento em que efetivamente comunicar o *Contratado*, o *Cliente* responderá pelos gastos e/ou prejuízos decorrentes da eventual utilização das senhas de acesso por terceiros. O *Contratado* não se responsabilizará por quaisquer danos decorrentes de tais fatos enquanto não for informado pelo assinante sobre o extravio, perda ou roubo das senhas de acesso.
+3.6. Até o momento em que efetivamente comunicar o *Contratado*, o *Cliente* responderá pelos gastos e/ou prejuízos decorrentes da eventual utilização das senhas de acesso por terceiros. O *Contratado* não se responsabilizará por quaisquer danos decorrentes de tais fatos enquanto não for informado pelo assinante sobre o extravio, perda ou roubo das senhas de acesso. (EDIT)
 
 **4. OBRIGAÇÕES E DIREITOS DO CLIENTE**
 
@@ -96,7 +96,7 @@ b) Android, iOS, Windows Phone.
 
 4.3. Não utilizar o *Sistema* para armazenar, propagar e/ou manter conteúdos que violem a lei, ou, de outra forma em geral, às exigências da moral e bons costumes geralmente aceitos.
 
-4.4. Observar as disposições contidas nestas *Condições Gerais*, sob pena do *Contratado*, a seu exclusivo critério, ao detectar conduta e/ou método contrário às mesmas, optar por rescindir o Contrato, interromper o acesso à *Plataforma XYZ* temporariamente e/ou notificar o *Cliente* para que sane, corrija ou regularize a situação.
+4.4. Observar as disposições contidas nestas *Condições Gerais*, sob pena do *Contratado*, a seu exclusivo critério, ao detectar conduta e/ou método contrário às mesmas, optar por rescindir o Contrato, interromper o acesso à *Plataforma XYZ* temporariamente e/ou notificar o *Cliente* para que sane, corrija ou regularize a situação. (EDIT)
 
 4.5. Assumir todas as responsabilidades decorrentes de seus atos e de sua conduta como usuário da rede internet e *Cliente* do *Contratado*, respondendo, ainda, pelos atos que terceiros praticarem em seu nome, por meio do uso de seu *E-mail* e senha de acesso. Indenizar o *Contratado* por quaisquer custos, prejuízos e danos decorrentes de ações ou omissões que violem as disposições contidas na lei e nestas *Condições Gerais* do *Contratado*, a qual está disponível na *Plataforma XYZ*.
 
